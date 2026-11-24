@@ -10,6 +10,8 @@ on. Setup, turn, punchline; no low-battery puns, no charger talk.
 
 Deterministic: the same bytes on every run, no randomness, no network,
 no time, no environment-dependent output.
+
+Revised in a follow-up pass: docstring only; the entry text is untouched.
 """
 
 import os
